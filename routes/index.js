@@ -9,7 +9,4 @@ router.post('/api/get_products', ApiController.get_products)
 router.post('/api/create_link', ApiController.create_link)
 router.get('/', MainController.main)
 
-
 export default router
-
-// mongo -> products -> html

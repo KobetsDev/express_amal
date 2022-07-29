@@ -64,6 +64,3 @@ class ApiController {
     }
 }
 export default new ApiController()
-// export default UserController
-// export default class UserController
-// exports.UserController = UserController

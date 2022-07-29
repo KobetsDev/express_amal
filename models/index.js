@@ -40,8 +40,7 @@ const schemaCart = new mongoose.Schema({
         },
         product_count: {
             type: Number,
-            required: true,
-            unique: true
+            required: true
         }
     }],
     date_order: {
